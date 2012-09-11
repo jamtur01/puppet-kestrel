@@ -1,0 +1,4 @@
+---
+:kestrel_server: 'localhost'
+:kestrel_port: 22133
+:kestrel_queue: 'queue'
